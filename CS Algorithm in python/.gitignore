@@ -215,9 +215,6 @@ __marimo__/
 __pycache__/
 *.pyc
 
-# Output directory
-output/
-
 # Sachs et al. (2005) data files (non-redistributable)
 data/sachs.interventional.txt
 data/sachs_data.csv

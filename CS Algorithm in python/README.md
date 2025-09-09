@@ -21,8 +21,7 @@
     -   `sample_data.csv`: 動作確認用のサンプルデータ（300件 x 20変数）。
 -   `output/`
     -   分析結果のJSONファイルが保存されるディレクトリ。
--   `docs/`
-    -   `README.md`: このファイル。
+-   `README.md`: このファイル。
 
 ## 必要なライブラリ
 
@@ -152,8 +151,7 @@ Both scripts provide detailed logs of the analysis process and save the final re
     -   `sample_data.csv`: A sample dataset for quick testing (300 samples x 20 vars).
 -   `output/`
     -   The directory where the resulting JSON files are stored.
--   `docs/`
-    -   `README.md`: This file.
+-   `README.md`: This file.
 
 ## Requirements
 
